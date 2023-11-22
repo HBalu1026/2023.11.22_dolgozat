@@ -1,0 +1,15 @@
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\bin\Debug\net6.0\2023.11.22_dolgozat.exe
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\bin\Debug\net6.0\2023.11.22_dolgozat.deps.json
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\bin\Debug\net6.0\2023.11.22_dolgozat.runtimeconfig.json
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\bin\Debug\net6.0\2023.11.22_dolgozat.dll
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\bin\Debug\net6.0\2023.11.22_dolgozat.pdb
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.csproj.AssemblyReference.cache
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.AssemblyInfoInputs.cache
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.AssemblyInfo.cs
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.dll
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\refint\2023.11.22_dolgozat.dll
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.pdb
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\2023.11.22_dolgozat.genruntimeconfig.cache
+C:\Users\hernadi.balazs\source\repos\2023.11.22_dolgozat\2023.11.22_dolgozat\obj\Debug\net6.0\ref\2023.11.22_dolgozat.dll
